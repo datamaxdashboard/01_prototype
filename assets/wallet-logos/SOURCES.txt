@@ -1,0 +1,3 @@
+MetaMask fox: https://github.com/MetaMask/brand-resources/blob/cb6fd847f3a9cc5e231c749383c3898935e62eab/SVG/metamask-fox.svg
+WalletConnect symbol: https://brand.walletconnect.com/wc-brand.html (symbol in the blue tone of the supplied reference)
+Trust Wallet shield: https://trustwallet.com/download/logos.zip (Trust Wallet Core Logo_Green.svg, viewBox limited to the shield)
